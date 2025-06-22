@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)
 
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samartha21brs1698-energy-monit-virtual-energy-monitorapp-pqteri.streamlit.app/)
 
 # 🔋 Cloud-Based Home Energy Monitoring System (Simulated)
 
