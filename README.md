@@ -2,8 +2,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samartha21brs1698-energy-monit-virtual-energy-monitorapp-pqteri.streamlit.app/)
-
 # 🔋 Cloud-Based Home Energy Monitoring System (Simulated)
 
 > A cloud based Energy monitoring system which gives real-time information about the appliances’ energy
@@ -52,6 +50,11 @@ Virtual_Energy_Monitor/
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Streamlit platorm image
+![alt text](Virtual_Energy_Monitor/streamlit_page.png)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samartha21brs1698-energy-monit-virtual-energy-monitorapp-pqteri.streamlit.app/)
 
 ## 🙌 Author
 
